@@ -3,8 +3,8 @@ var ROUTING_CONFIG = {
   "bootstrapSelector": "body",
   "routes": [
     {
-      "configurationUrl": "https://dz57b37czzuk6.cloudfront.net/storefronts/spirit-airlines/topup/PSBGT-2037-spirit-topup/configuration.json",
-      "sfnJsUrl": "https://d3e6canjev74qs.cloudfront.net/js/v4/sfn.js",
+      "configurationUrl": "https://sfn-st.s3.amazonaws.com/storefronts/spirit-airlines/topup/v0.0.82/configuration.json",
+      "sfnJsUrl": "https://d3e6canjev74qs.cloudfront.net/js/v6.3.3/sfn.js",
       "weight": 100
     }
   ]
